@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "P4mCast: Accelerating and Scaling Fault-Tolerant Atomic Multicast in Multi-Cloud Environment"
+authors:
+  - family-names: "Boughzala"
+    given-names: "Bochra"
+  - family-names: "Koldehofe"
+    given-names: "Boris"
+  - family-names: "Lazovik"
+    given-names: "Alexander"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Boughzala"
+      given-names: "Bochra"
+    - family-names: "Koldehofe"
+      given-names: "Boris"
+    - family-names: "Lazovik"
+      given-names: "Alexander"
+  title: "P4mCast: Accelerating and Scaling Fault-Tolerant Atomic Multicast in Multi-Cloud Environment"
+  year: 2025
+  collection-title: "2025 IEEE 45th International Conference on Distributed Computing Systems Workshops (ICDCSW)"
+  pages: "159-164"
+  doi: "10.1109/ICDCSW63273.2025.00033"
